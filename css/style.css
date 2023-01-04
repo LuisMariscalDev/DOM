@@ -235,6 +235,13 @@ img {
     color: var(--blanco);
     text-transform: uppercase;
 }
+.enviar {
+    background-color: rgb(25, 46, 181);
+    text-align: center;
+    padding: 1rem;
+    color: var(--blanco);
+    text-transform: uppercase;
+}
 .correcto {
     background-color: rgb(74, 185, 0);
     text-align: center;
